@@ -1,0 +1,16 @@
+{
+    "navbar": {
+        "home": "Home",
+        "features": "Features",
+        "solutions": "Solutions",
+        "demo": "Demo",
+        "testimonial": "Testimonials",
+        "contact": "Contact"
+    },
+    "intro": {
+        "heading": "Revolutionize your e-commerce with our powerful platform",
+        "subheading": "Boost sales, simplify operations, and delight your customers with industry-leading features.",
+        "button_text": "Get Started",
+        "highlight": "Seamless Integration, User-Friendly Interface, Data-Driven Insights"
+    }
+}
