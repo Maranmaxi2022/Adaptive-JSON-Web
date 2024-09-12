@@ -1,0 +1,1 @@
+This project is a Flask web application that dynamically updates webpage content using the Gemini API. Based on user input, the API generates JSON data to update sections of the website like the navbar and intro. The app also handles complex API responses by extracting the valid JSON using regex. This allows for real-time content customization and flexibility.
